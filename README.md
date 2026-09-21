@@ -4,7 +4,6 @@ I used Fusion360 to design the helmets of many memorable comic book characters.
 
 <img width="205" height="185" alt="Screenshot 2026-09-21 115647" src="https://github.com/user-attachments/assets/b2b5c2d3-4cd3-461a-b8e6-a55e4edc0683" /> 
 
-
 Scarlet Witch
 <img width="245" height="207" alt="Screenshot 2026-09-21 115602" src="https://github.com/user-attachments/assets/3eff5d87-62d2-468b-841a-b3e8722b0505" />
 <img width="201" height="199" alt="Screenshot 2026-09-21 115516" src="https://github.com/user-attachments/assets/957e3091-28b3-453d-9c87-615cd49d9280" />

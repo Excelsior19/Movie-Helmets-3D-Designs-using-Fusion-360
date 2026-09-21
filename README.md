@@ -8,7 +8,7 @@ I used Fusion360 to design the helmets of many memorable comic book characters.
 <img width="226" height="197" alt="Screenshot 2026-09-21 115318" src="https://github.com/user-attachments/assets/c89c32f8-d477-48a7-8997-3943fa9f1d88" />
 
 
-___________ Scarlet Witch______________Kang the Conqueror_________________Dr Fate________________Black Panther __________________
+___________ Scarlet Witch______________Kang the Conqueror_________________Dr Fate____________________Black Panther __________________
 
 
 
@@ -17,3 +17,6 @@ ___________ Scarlet Witch______________Kang the Conqueror_________________Dr Fat
 <img width="222" height="200" alt="Screenshot 2026-09-21 114120" src="https://github.com/user-attachments/assets/13c2d38d-30a8-4994-b9e3-d718791573c7" />
 <img width="267" height="201" alt="Screenshot 2026-09-21 114038" src="https://github.com/user-attachments/assets/d1d1e6e3-dd83-477a-a1b2-0f4f261079ec" />
 <img width="228" height="194" alt="Screenshot 2026-09-21 113958" src="https://github.com/user-attachments/assets/a709d069-ee72-4169-979b-58c34cebdcb9" />
+
+
+___________ Spiderman______________Batman_________________Iron Man____________________Daredevil __________________

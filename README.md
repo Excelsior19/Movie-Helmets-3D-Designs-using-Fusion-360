@@ -8,7 +8,7 @@ I used Fusion360 to design the helmets of many memorable comic book characters.
 <img width="226" height="197" alt="Screenshot 2026-09-21 115318" src="https://github.com/user-attachments/assets/c89c32f8-d477-48a7-8997-3943fa9f1d88" />
 
 
-Scarlet Witch______________Kang the Conqueror 
+___________Scarlet Witch______________Kang the Conqueror 
 
 
 

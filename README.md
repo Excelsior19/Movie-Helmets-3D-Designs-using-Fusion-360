@@ -19,4 +19,4 @@ ___________ Scarlet Witch______________Kang the Conqueror_________________Dr Fat
 <img width="228" height="194" alt="Screenshot 2026-09-21 113958" src="https://github.com/user-attachments/assets/a709d069-ee72-4169-979b-58c34cebdcb9" />
 
 
-___________ Spiderman_______________________Batman_________________________Iron Man____________________Daredevil __________________
+___________ Spiderman_______________________Batman_________________________Iron Man__________________________Daredevil __________________
